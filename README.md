@@ -44,6 +44,8 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
+## Output:
+
 ![6 1](https://github.com/user-attachments/assets/f2543594-982b-4e9b-bc6e-50a662b25dec)
 
 
